@@ -1,0 +1,74 @@
+*{
+	margin:0;
+}
+body{
+	background-image: url(img/bg.png);
+	font-family: Arial;
+}
+
+div.bovenkant{
+	background-image: url(img/header.jpg);
+	height: 268px;
+}
+
+div.midden{
+	width: 800px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.tekst{
+	padding: 30px;
+}
+
+ul.top-menu{
+	list-style-type: none;
+	color: white;
+}
+
+li{
+	display: inline;
+	padding: 10px;
+}
+
+li a:hover{
+	color: black;
+}
+
+li a:visited{
+	color: white;
+}
+
+li a:link{
+	color: white;
+}
+
+li a:hover{
+	color: lightgray;
+}
+
+img.top-left{
+	float: left;
+	padding-right: 20px;
+}
+
+div.boventekst{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+img.img1{
+	float: right;
+	padding: 20px;
+}
+
+img.img2{
+	float: left;
+	padding: 20px;
+}
+
+img.img3{
+	float: right;
+	padding: 20px;
+}
